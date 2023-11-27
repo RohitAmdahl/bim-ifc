@@ -1,15 +1,14 @@
-// Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyB0RSQ32nVhrB9Rsvv8wvgFMzEDkvg3xwo",
-  authDomain: "vision-68f07.firebaseapp.com",
-  projectId: "vision-68f07",
-  storageBucket: "vision-68f07.appspot.com",
-  messagingSenderId: "798238250127",
-  appId: "1:798238250127:web:f380875c557cbe0b09ccfa",
-  measurementId: "G-HCPCXZY3DE",
+  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
+  authDomain: import.meta.env.VITE_FIREBASE_AUTH_DOMAIN,
+  projectId: import.meta.env.VITE_FIREBASE_PROJECT_ID,
+  storageBucket: import.meta.env.VITE_FIREBASE_STORAGE_BUCKET,
+  messagingSenderId: import.meta.env.VITE_FIREBASE_MESSAGING_SENDER_ID,
+  appId: import.meta.env.VITE_FIREBASE_APP_ID,
+  measurementId: import.meta.env.VITE_FIREBASE_MEASUREMENT_ID,
 };
 
 // Initialize Firebase
