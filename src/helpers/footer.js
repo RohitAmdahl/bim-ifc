@@ -9,9 +9,4 @@ export const FooterItems = [
     link: "/faq",
     id: 1,
   },
-  {
-    name: "Log In",
-    link: "/login",
-    id: 2,
-  },
 ];
