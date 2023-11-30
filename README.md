@@ -57,8 +57,8 @@ Embark on a journey with Visionary IFC Viewer – Where Innovation Meets Visuali
 
 ### Contact Page
 
-- **Connect with Us:** Inquiries, collaborations, and partnerships.
+- **Connect:** Inquiries, collaborations.
 - **Email:** [rohit_designer@outlook.com](mailto:rohit_designer@outlook.com)
-- **Social Links:** Connect with our team on social media.
 
-And remember, contributing is not just for coders—it's for anyone who enjoys turning "404 not found" into "200 success"! 🚀
+
+And remember, contributing is not just for coders—it's for anyone who enjoys turning "404 not found" into a "200 success page"! 🚀
