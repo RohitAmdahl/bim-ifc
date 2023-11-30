@@ -17,9 +17,6 @@ Visionary IFC Viewer is a cutting-edge web application that redefines how profes
 
 - **Questions Answered:** Frequently asked questions about the viewer.
 
-### Login Page
-
-- **Exclusive Access:** User authentication for advanced features.
 
 ### Demo Page
 
