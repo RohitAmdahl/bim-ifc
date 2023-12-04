@@ -1,6 +1,6 @@
 import { Link, NavLink } from "react-router-dom";
-import logoSmall from "../assets/logo.png";
-import { FooterItems } from "../helpers/footer.js";
+import logoSmall from "../assets/ifc-logo.png";
+import { FooterItems } from "../helpers/footer.ts";
 const Footer = () => {
   return (
     <>
