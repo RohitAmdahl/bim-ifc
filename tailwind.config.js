@@ -12,6 +12,7 @@ export default {
         heading: "#6704ff",
         buttonBg: "#b2aeff",
         hover: "#cac7ff",
+        option: "#00FF88",
       },
     },
   },
