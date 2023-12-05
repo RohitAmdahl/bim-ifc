@@ -1,11 +1,7 @@
 import DemoPage from "../components/DemoPage";
 
 const Demo = () => {
-  return (
-    <div>
-      <DemoPage />
-    </div>
-  );
+  return <DemoPage />;
 };
 
 export default Demo;
