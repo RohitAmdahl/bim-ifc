@@ -1,18 +1,18 @@
 export const navItems = [
   {
+    name: "Home",
+    link: "/",
+    id: 0,
+  },
+  {
     name: "Faq",
     link: "/faq",
-    id: 0,
+    id: 1,
   },
 
   {
     name: "App",
     link: "/demo",
-    id: 1,
-  },
-  {
-    name: "Home",
-    link: "/",
     id: 2,
   },
 ];
