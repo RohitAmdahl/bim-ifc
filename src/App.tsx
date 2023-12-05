@@ -29,7 +29,6 @@ function App() {
           <Route path="/" element={<Layout />}>
             <Route index element={<HomePage />} />
             <Route path="/faq" element={<FactPage />} />
-
             <Route path="/demo" element={<Demo />} />
             <Route path="/contact" element={<ContactPage />} />
           </Route>
