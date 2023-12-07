@@ -1,7 +1,7 @@
 const DemoPage = () => {
   return (
     <div>
-      <div className="  flex justify-between items-center w-full container bg-red-200  mx-auto">
+      <div className="  flex justify-between items-center w-full container mx-auto">
         <nav className="flex max-w-3xl container mx-auto">
           <ul className="flex p-2 gap-1">
             <li className=" flex text-center p-3 text-md bg-slate-800 text-option">
@@ -17,7 +17,7 @@ const DemoPage = () => {
               Filter and Hide
             </li>
             <li className=" flex text-center p-3 text-md bg-slate-800 text-option">
-              Exploded view
+              Model Tree
             </li>
             <li className=" flex text-center p-3 text-md bg-slate-800 text-option">
               Clipping / sections
